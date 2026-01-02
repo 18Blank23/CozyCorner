@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CozyCorner/static/css/main.97c844bc.css",
+    "main.js": "/CozyCorner/static/js/main.ffd94306.js",
+    "index.html": "/CozyCorner/index.html",
+    "main.97c844bc.css.map": "/CozyCorner/static/css/main.97c844bc.css.map",
+    "main.ffd94306.js.map": "/CozyCorner/static/js/main.ffd94306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c844bc.css",
+    "static/js/main.ffd94306.js"
+  ]
+}
